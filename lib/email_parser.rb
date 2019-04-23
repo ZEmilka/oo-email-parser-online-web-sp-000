@@ -1,4 +1,4 @@
-class EmailParser(emails)
+class EmailParser
   attr_accessor :emails
 
   emails = "john@doe.com, person@somewhere.org"
